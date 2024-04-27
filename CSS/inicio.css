@@ -70,6 +70,9 @@ header > menu > a:hover {
     transition: .3s;
 }
 @media screen and (max-width: 410px) {
+    main {
+        background-image: none;
+    }
     header {
         width: 250px;
         min-width: 250px;
